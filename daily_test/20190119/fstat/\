@@ -1,0 +1,6 @@
+#include "func.h"
+int main()
+{
+	
+	int fd=open(argv[1],O_RDONLY);
+}
