@@ -1,0 +1,6 @@
+1001  Google  M  87  76  97
+1002  Microsoft  M  60  79  65
+1003  XiaoMi  M  99  99  99
+1004  Samsung  M  100  98  90
+1005  Apple  F  90  92  91
+1006  HuaWei  M  59  59  10
